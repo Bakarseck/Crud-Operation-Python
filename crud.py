@@ -1,3 +1,5 @@
+# install mysql-connector-python
+
 import mysql.connector
 
 # Define a variable mysqldb for connection
